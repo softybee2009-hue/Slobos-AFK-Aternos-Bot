@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SOFTY_BEE.aternos.me",
+    "ip": "SOFTY_BEE.aternos.me:19335",
     "port": 19335,
     "version": "1.21.11",
     "try-creative": false
